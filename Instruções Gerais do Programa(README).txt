@@ -1,5 +1,7 @@
+-o arquivo está em .zip devido à quantidade de itens na pasta;
+-após fazer download e descompactar a pasta, procure o arquivo main "LPCRUD";
 -o crud main se encontra no caminho:
-	LPCRUD/src/lpcrud;
+	LPCRUD/src/lpcrud/LPCRUD;
 -o programa começa com o LOGIN;
 -há um usuário padrão de nome: "adm" e senha: "adm" sendo um "manager";
 -ao fazer o login, ele avança para o HOME MENU onde é possível criar outros usuários;
